@@ -1,0 +1,10 @@
+id,name,district,hex_id,confidence,report_count,sources,dominant_symptom,status,created_at,last_updated
+sig001,Respiratory cluster · Bhopal North,Bhopal North,8829a6b1fffffff,87.3,142,user reports|trend signals|geo clustering,fever,strong,2026-06-08T10:00:00Z,2026-06-11T14:00:00Z
+sig002,Respiratory cluster · Bhopal East,Bhopal East,8829a6b3fffffff,79.1,118,user reports|trend signals,cough,strong,2026-06-08T11:00:00Z,2026-06-11T14:00:00Z
+sig003,Respiratory cluster · Bhopal West,Bhopal West,8829a6b5fffffff,61.4,55,user reports|trend signals,fever,emerging,2026-06-09T09:00:00Z,2026-06-11T14:00:00Z
+sig004,Respiratory cluster · Govindpura,Govindpura,8829a6b7fffffff,54.2,62,user reports,fever,emerging,2026-06-09T11:00:00Z,2026-06-11T14:00:00Z
+sig005,Respiratory cluster · Huzur,Huzur,8829a6b9fffffff,48.7,48,user reports,fatigue,emerging,2026-06-10T08:00:00Z,2026-06-11T14:00:00Z
+sig006,GI disturbance · Kolar,Kolar,8829a6bbfffffff,32.1,28,user reports,nausea,noise,2026-06-10T10:00:00Z,2026-06-11T14:00:00Z
+sig007,Unclassified cluster · Phanda,Phanda,8829a6bffffffff,18.5,12,user reports,body ache,noise,2026-06-10T12:00:00Z,2026-06-11T14:00:00Z
+sig008,GI disturbance · Misrod,Misrod,8829a6bdfffffff,24.3,19,user reports,diarrhea,noise,2026-06-10T14:00:00Z,2026-06-11T14:00:00Z
+sig009,Respiratory cluster · Berasia,Berasia,8829a6c1fffffff,15.2,8,user reports,cough,noise,2026-06-11T08:00:00Z,2026-06-11T14:00:00Z

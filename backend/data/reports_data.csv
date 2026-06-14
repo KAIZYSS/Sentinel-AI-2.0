@@ -1,0 +1,21 @@
+anon_id,district,hex_id,symptoms,free_text,timestamp,is_spam
+A1B2C3D4,Bhopal North,8829a6b1fffffff,"cough,fever","had fever and cough for 3 days",2026-06-10T08:22:00Z,false
+E5F6G7H8,Bhopal East,8829a6b3fffffff,"fever,fatigue","feeling very weak and high temperature",2026-06-10T09:15:00Z,false
+I9J0K1L2,Bhopal West,8829a6b5fffffff,"cough,sore throat",,2026-06-10T09:45:00Z,false
+M3N4O5P6,Bhopal North,8829a6b1fffffff,"loss of smell,fatigue","cannot smell anything since yesterday",2026-06-10T10:00:00Z,false
+Q7R8S9T0,Govindpura,8829a6b7fffffff,"shortness of breath,cough",,2026-06-10T10:30:00Z,false
+U1V2W3X4,Bhopal East,8829a6b3fffffff,"fever,body ache","whole body aching with high fever",2026-06-10T11:00:00Z,false
+Y5Z6A7B8,Bhopal North,8829a6b1fffffff,"cough,headache,fever",,2026-06-10T11:30:00Z,false
+C9D0E1F2,Huzur,8829a6b9fffffff,"nausea,fatigue","feeling nauseous and tired",2026-06-10T12:00:00Z,false
+G3H4I5J6,Bhopal West,8829a6b5fffffff,"loss of smell,cough",,2026-06-10T12:30:00Z,false
+K7L8M9N0,Kolar,8829a6bbfffffff,"fatigue,sore throat,fever",,2026-06-10T13:00:00Z,false
+O1P2Q3R4,Bhopal North,8829a6b1fffffff,"fever,shortness of breath","breathless even when resting",2026-06-10T13:30:00Z,false
+S5T6U7V8,Bhopal East,8829a6b3fffffff,"cough,fever","dry cough since morning",2026-06-10T14:00:00Z,false
+W9X0Y1Z2,Govindpura,8829a6b7fffffff,"headache,fever",,2026-06-10T14:30:00Z,false
+A3B4C5D6,Bhopal North,8829a6b1fffffff,"fatigue,sore throat","throat pain and extreme tiredness",2026-06-10T15:00:00Z,false
+E7F8G9H0,Misrod,8829a6bdfffffff,"diarrhea,nausea","loose motions since yesterday",2026-06-10T15:30:00Z,false
+I1J2K3L4,Bhopal East,8829a6b3fffffff,"fever,loss of smell,cough",,2026-06-10T16:00:00Z,false
+M5N6O7P8,Phanda,8829a6bffffffff,"fever,body ache",,2026-06-10T16:30:00Z,false
+Q9R0S1T2,Bhopal North,8829a6b1fffffff,"cough,fatigue","persistent cough",2026-06-10T17:00:00Z,false
+U3V4W5X6,Bhopal West,8829a6b5fffffff,"fever,headache",,2026-06-10T17:30:00Z,false
+Y7Z8A9B0,Berasia,8829a6c1fffffff,"fever,cough","seasonal flu-like",2026-06-10T18:00:00Z,false

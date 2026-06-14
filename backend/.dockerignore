@@ -1,0 +1,27 @@
+# Sentinel AI Backend — .dockerignore
+# Excludes files not needed in the production Docker image
+
+# Test scripts — development only
+test_location_resolver.py
+
+# Database seed utility — run locally only, not needed in production image
+seed_db_from_csv.py
+
+# Development snapshot data (not needed if Supabase is the live source)
+data/real_data_snapshot.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment secrets — Railway injects these via env vars
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db

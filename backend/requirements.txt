@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+supabase
+h3>=4.0.0
+pandas
+google-genai

@@ -1,0 +1,130 @@
+week,district,disease,suspected_cases,confirmed_cases,deaths,alert_level,source_agency
+2026-W18,Mumbai,Influenza-like Illness,312,98,1,alert,IDSP-MH
+2026-W18,Pune,Dengue,145,42,0,watch,IDSP-MH
+2026-W18,Nagpur,Chikungunya,88,24,0,watch,IDSP-MH
+2026-W18,New Delhi,Influenza-like Illness,428,131,2,alert,IDSP-DL
+2026-W18,South Delhi,Dengue,192,56,1,alert,IDSP-DL
+2026-W18,Kolkata,Influenza-like Illness,265,79,1,alert,IDSP-WB
+2026-W18,Howrah,Malaria,78,22,0,watch,IDSP-WB
+2026-W18,Chennai,Dengue,187,55,0,alert,IDSP-TN
+2026-W18,Coimbatore,Influenza-like Illness,95,28,0,watch,IDSP-TN
+2026-W18,Hyderabad,Influenza-like Illness,354,108,2,alert,IDSP-TS
+2026-W18,Bengaluru,Dengue,210,64,1,alert,IDSP-KA
+2026-W18,Ahmedabad,Chikungunya,122,36,0,watch,IDSP-GJ
+2026-W18,Lucknow,Influenza-like Illness,198,61,1,alert,IDSP-UP
+2026-W18,Patna,Malaria,145,43,1,watch,IDSP-BR
+2026-W18,Guwahati,Japanese Encephalitis,42,12,2,alert,IDSP-AS
+2026-W18,Bhopal,Influenza-like Illness,115,34,0,watch,IDSP-MP
+2026-W18,Thiruvananthapuram,Nipah Virus,8,3,1,outbreak,IDSP-KL
+2026-W18,Kochi,Nipah Virus,12,4,2,outbreak,IDSP-KL
+2026-W18,Jaipur,Dengue,88,26,0,watch,IDSP-RJ
+2026-W18,Srinagar,Influenza-like Illness,65,19,0,watch,IDSP-JK
+2026-W19,Mumbai,Influenza-like Illness,498,155,3,outbreak,IDSP-MH
+2026-W19,Pune,Dengue,218,67,1,alert,IDSP-MH
+2026-W19,New Delhi,Influenza-like Illness,612,189,3,outbreak,IDSP-DL
+2026-W19,South Delhi,Dengue,285,88,2,outbreak,IDSP-DL
+2026-W19,North Delhi,Influenza-like Illness,198,61,1,alert,IDSP-DL
+2026-W19,Kolkata,Influenza-like Illness,389,120,2,outbreak,IDSP-WB
+2026-W19,Chennai,Dengue,295,91,1,outbreak,IDSP-TN
+2026-W19,Madurai,Dengue,145,44,0,alert,IDSP-TN
+2026-W19,Hyderabad,Influenza-like Illness,512,158,4,outbreak,IDSP-TS
+2026-W19,Warangal,Malaria,88,27,1,watch,IDSP-TS
+2026-W19,Bengaluru,Dengue,342,106,2,outbreak,IDSP-KA
+2026-W19,Mysuru,Chikungunya,98,30,0,watch,IDSP-KA
+2026-W19,Thiruvananthapuram,Nipah Virus,18,7,3,outbreak,IDSP-KL
+2026-W19,Kochi,Nipah Virus,25,10,4,outbreak,IDSP-KL
+2026-W19,Kozhikode,Nipah Virus,9,3,1,outbreak,IDSP-KL
+2026-W19,Lucknow,Influenza-like Illness,312,97,2,alert,IDSP-UP
+2026-W19,Kanpur,Influenza-like Illness,198,61,1,alert,IDSP-UP
+2026-W19,Varanasi,Encephalitis,65,20,2,alert,IDSP-UP
+2026-W19,Patna,Malaria,225,70,2,alert,IDSP-BR
+2026-W19,Guwahati,Japanese Encephalitis,75,24,5,outbreak,IDSP-AS
+2026-W19,Ahmedabad,Chikungunya,195,60,1,alert,IDSP-GJ
+2026-W19,Surat,Dengue,142,44,0,watch,IDSP-GJ
+2026-W19,Jaipur,Dengue,155,48,1,alert,IDSP-RJ
+2026-W19,Bhopal,Influenza-like Illness,188,58,1,alert,IDSP-MP
+2026-W19,Indore,Influenza-like Illness,145,45,0,alert,IDSP-MP
+2026-W19,Ranchi,Malaria,95,29,1,watch,IDSP-JH
+2026-W19,Bhubaneswar,Dengue,88,27,0,watch,IDSP-OD
+2026-W20,Mumbai,Influenza-like Illness,712,220,5,outbreak,IDSP-MH
+2026-W20,Pune,Dengue,325,101,2,outbreak,IDSP-MH
+2026-W20,Thane,Influenza-like Illness,245,76,1,alert,IDSP-MH
+2026-W20,New Delhi,Influenza-like Illness,895,277,6,outbreak,IDSP-DL
+2026-W20,South Delhi,Dengue,412,127,3,outbreak,IDSP-DL
+2026-W20,North Delhi,Influenza-like Illness,312,97,2,outbreak,IDSP-DL
+2026-W20,East Delhi,Influenza-like Illness,285,88,1,alert,IDSP-DL
+2026-W20,Kolkata,Influenza-like Illness,545,169,4,outbreak,IDSP-WB
+2026-W20,Howrah,Malaria,142,44,2,alert,IDSP-WB
+2026-W20,Chennai,Dengue,445,138,3,outbreak,IDSP-TN
+2026-W20,Coimbatore,Influenza-like Illness,165,51,1,alert,IDSP-TN
+2026-W20,Hyderabad,Influenza-like Illness,725,224,6,outbreak,IDSP-TS
+2026-W20,Bengaluru,Dengue,495,153,3,outbreak,IDSP-KA
+2026-W20,Thiruvananthapuram,Nipah Virus,32,13,6,outbreak,IDSP-KL
+2026-W20,Kochi,Nipah Virus,41,17,7,outbreak,IDSP-KL
+2026-W20,Kozhikode,Nipah Virus,19,8,3,outbreak,IDSP-KL
+2026-W20,Lucknow,Influenza-like Illness,445,138,3,outbreak,IDSP-UP
+2026-W20,Kanpur,Influenza-like Illness,312,97,2,alert,IDSP-UP
+2026-W20,Varanasi,Encephalitis,112,35,5,outbreak,IDSP-UP
+2026-W20,Patna,Malaria,312,97,4,alert,IDSP-BR
+2026-W20,Muzaffarpur,Acute Encephalitis Syndrome,78,24,6,outbreak,IDSP-BR
+2026-W20,Guwahati,Japanese Encephalitis,112,36,8,outbreak,IDSP-AS
+2026-W20,Ahmedabad,Chikungunya,278,86,2,outbreak,IDSP-GJ
+2026-W20,Jaipur,Dengue,225,70,2,alert,IDSP-RJ
+2026-W20,Bhopal,Influenza-like Illness,265,82,2,alert,IDSP-MP
+2026-W20,Indore,Influenza-like Illness,212,66,1,alert,IDSP-MP
+2026-W20,Ranchi,Malaria,145,45,2,alert,IDSP-JH
+2026-W20,Srinagar,Influenza-like Illness,112,35,1,alert,IDSP-JK
+2026-W20,Imphal,Influenza-like Illness,88,27,0,watch,IDSP-MN
+2026-W20,Raipur,Dengue,95,29,0,watch,IDSP-CG
+2026-W20,Visakhapatnam,Dengue,145,45,1,alert,IDSP-AP
+2026-W20,Hyderabad,Typhoid,95,29,1,watch,IDSP-TS
+2026-W21,Mumbai,Influenza-like Illness,985,305,8,outbreak,IDSP-MH
+2026-W21,New Delhi,Influenza-like Illness,1145,354,9,outbreak,IDSP-DL
+2026-W21,Kolkata,Influenza-like Illness,712,220,6,outbreak,IDSP-WB
+2026-W21,Chennai,Dengue,598,185,5,outbreak,IDSP-TN
+2026-W21,Hyderabad,Influenza-like Illness,945,292,8,outbreak,IDSP-TS
+2026-W21,Bengaluru,Dengue,645,200,4,outbreak,IDSP-KA
+2026-W21,Thiruvananthapuram,Nipah Virus,48,20,9,outbreak,IDSP-KL
+2026-W21,Kochi,Nipah Virus,55,23,10,outbreak,IDSP-KL
+2026-W21,Lucknow,Influenza-like Illness,598,185,5,outbreak,IDSP-UP
+2026-W21,Muzaffarpur,Acute Encephalitis Syndrome,112,36,9,outbreak,IDSP-BR
+2026-W21,Guwahati,Japanese Encephalitis,145,47,11,outbreak,IDSP-AS
+2026-W21,Ahmedabad,Chikungunya,365,113,3,outbreak,IDSP-GJ
+2026-W21,Pune,Dengue,445,138,3,outbreak,IDSP-MH
+2026-W21,Jaipur,Dengue,312,97,2,alert,IDSP-RJ
+2026-W21,Bhopal,Influenza-like Illness,345,107,2,outbreak,IDSP-MP
+2026-W21,Indore,Influenza-like Illness,278,86,2,alert,IDSP-MP
+2026-W21,Varanasi,Encephalitis,155,48,7,outbreak,IDSP-UP
+2026-W21,Patna,Malaria,395,122,5,outbreak,IDSP-BR
+2026-W22,Mumbai,Influenza-like Illness,1245,385,11,outbreak,IDSP-MH
+2026-W22,New Delhi,Influenza-like Illness,1398,432,12,outbreak,IDSP-DL
+2026-W22,Kolkata,Influenza-like Illness,895,277,8,outbreak,IDSP-WB
+2026-W22,Chennai,Dengue,745,231,7,outbreak,IDSP-TN
+2026-W22,Hyderabad,Influenza-like Illness,1198,371,10,outbreak,IDSP-TS
+2026-W22,Bengaluru,Dengue,812,251,5,outbreak,IDSP-KA
+2026-W22,Thiruvananthapuram,Nipah Virus,62,26,12,outbreak,IDSP-KL
+2026-W22,Kochi,Nipah Virus,71,30,13,outbreak,IDSP-KL
+2026-W22,Lucknow,Influenza-like Illness,745,231,7,outbreak,IDSP-UP
+2026-W22,Muzaffarpur,Acute Encephalitis Syndrome,145,47,12,outbreak,IDSP-BR
+2026-W22,Guwahati,Japanese Encephalitis,185,60,14,outbreak,IDSP-AS
+2026-W22,Ahmedabad,Chikungunya,445,138,4,outbreak,IDSP-GJ
+2026-W22,Pune,Dengue,545,169,4,outbreak,IDSP-MH
+2026-W22,Jaipur,Dengue,395,122,3,alert,IDSP-RJ
+2026-W22,Bhopal,Influenza-like Illness,445,138,3,outbreak,IDSP-MP
+2026-W22,Patna,Malaria,498,154,7,outbreak,IDSP-BR
+2026-W22,Varanasi,Encephalitis,198,62,9,outbreak,IDSP-UP
+2026-W22,Surat,Dengue,312,97,2,alert,IDSP-GJ
+2026-W22,Nagpur,Chikungunya,198,61,1,alert,IDSP-MH
+2026-W22,Ranchi,Malaria,225,70,3,alert,IDSP-JH
+2026-W22,Bhubaneswar,Dengue,145,45,1,alert,IDSP-OD
+2026-W22,Visakhapatnam,Dengue,212,66,2,alert,IDSP-AP
+2026-W22,Coimbatore,Dengue,165,51,1,alert,IDSP-TN
+2026-W22,Warangal,Malaria,115,36,1,alert,IDSP-TS
+2026-W22,Imphal,Influenza-like Illness,112,35,0,watch,IDSP-MN
+2026-W22,Shillong,Influenza-like Illness,88,27,0,watch,IDSP-ML
+2026-W22,Aizawl,Influenza-like Illness,65,20,0,watch,IDSP-MZ
+2026-W22,Agartala,Dengue,78,24,0,watch,IDSP-TR
+2026-W22,Dehradun,Influenza-like Illness,112,35,1,watch,IDSP-UK
+2026-W22,Chandigarh,Influenza-like Illness,98,30,0,watch,IDSP-CH
+2026-W22,Srinagar,Influenza-like Illness,145,45,1,alert,IDSP-JK
+2026-W22,Puducherry,Dengue,88,27,0,watch,IDSP-PY

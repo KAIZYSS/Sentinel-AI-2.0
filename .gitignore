@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+*.egg-info/
+
+# Python cache — all directories
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/.venv/
+
+# Build output
+dist/
+build/
+
+# Vite / Next.js
+.next/
+frontend/dist/
+frontend/.vite/
+
+# Environment variables — NEVER commit these
+.env
+.env.*
+*.env
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python virtual envs
+venv/
+env/
+
+# Deployment configs (local only)
+.vercel
